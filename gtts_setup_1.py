@@ -1,10 +1,9 @@
-"""from gtts import gTTS
-import os
+"""import os
 
-text = "আমার সোনার বাংলা"  # Your Bengali text here
+text = "আমার সোনার বাংলা"  # Bengali text here
 tts = gTTS(text=text, lang='bn')
 tts.save("output.mp3")
-os.system("start output.mp3")  # plays on Windows
+os.system("start output.mp3")  # Plays on Windows
 
 """
 
