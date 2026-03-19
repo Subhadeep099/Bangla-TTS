@@ -1,12 +1,3 @@
-"""import os
-
-text = "আমার সোনার বাংলা"  # Bengali text here
-tts = gTTS(text=text, lang='bn')
-tts.save("output.mp3")
-os.system("start output.mp3")  # Plays on Windows
-
-"""
-
 import streamlit as st
 from gtts import gTTS
 
